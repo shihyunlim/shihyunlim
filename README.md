@@ -1,9 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=_custom_gradient,0:46B8FF,100:1E90FF&height=150&text=SHIHYUNLIM&fontColor=000000&fontsize=20)
 </br></br></br>
-![SHIHYUNLIM's GitHub stats](https://github-readme-stats.vercel.app/api?username=shihyunlim&show_icons=true&theme=transparent)
+![SHIHYUNLIM's GitHub stats](https://github-readme-stats.vercel.app/api?username=shihyunlim&show_icons=true&theme=transparent&height=180)
 </br></br></br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shihyunlim)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shihyunlim&height=180)](https://github.com/shihyunlim/github-readme-stats)
 
 
 
