@@ -1,6 +1,6 @@
 <h3 align="center">✨ Currently studying on... ✨</h3>
 <div align="center">
-  Machine Learning
+  Machine Learning & NLP
 </div>
 
 <br>
